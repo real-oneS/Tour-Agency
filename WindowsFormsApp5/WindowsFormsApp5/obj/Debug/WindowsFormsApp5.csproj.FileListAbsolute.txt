@@ -1,0 +1,340 @@
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form3.resources
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form4.resources
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Core.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Identity.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.Data.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Core.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Identity.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.Data.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form5.resources
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form6.resources
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form7.resources
+C:\Users\Admin\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form8.resources
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Core.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Identity.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.Data.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.AccessControl.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Permissions.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.Windows.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encodings.Web.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Json.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Core.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Identity.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.pdb
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.Data.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.AccessControl.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Permissions.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.Windows.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encodings.Web.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Json.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.xml
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form8.resources
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form7.resources
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form6.resources
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form5.resources
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form4.resources
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form3.resources
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+E:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form8.resources
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form7.resources
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form6.resources
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form5.resources
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form4.resources
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form3.resources
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Core.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Identity.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.Data.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Core.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Identity.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.Data.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Core.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Identity.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.Data.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.AccessControl.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Permissions.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.Windows.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encodings.Web.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Json.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Core.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Azure.Identity.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.Data.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.AccessControl.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Permissions.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.Windows.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encodings.Web.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Json.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.xml
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form2.resources
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form8.resources
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form7.resources
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form6.resources
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form5.resources
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form4.resources
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form3.resources
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+D:\KURSACH BD\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
